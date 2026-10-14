@@ -1,0 +1,1 @@
+<x-errors.page code="419" title="Session expired" message="Your session token has expired. Please return to the previous page and try again." action-label="Refresh page" action-url="javascript:window.location.reload()" />
